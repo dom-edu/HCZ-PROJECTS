@@ -10,6 +10,30 @@
 - for a python w/ Flask (for making a website) use "Flask" Template 
 
 
+## Modeling Promise Academy 
+- rhino (free) 3D modeling program 
+- https://www.rhino3d.com/ 
+
+## LIGHT SHOW 
+- 3d cube 8x8x8 
+- OLED boards (for animations in JS / Scratch) 
+- custom light boards  
+
+## SPEAKER 
+- diy speaker (bluetooth can control from the board)
+
+## Software
+- ardino 
+- raspberry pi 
+- Python + JS web portal 
+- login system 
+- HTML / CSS styling 
+- button for controlling board 
+
+## Scratch 
+- animations 
+- game 
+
 
 # Scratch Project Ideas 
   - animation
