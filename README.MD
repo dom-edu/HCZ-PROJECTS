@@ -30,6 +30,12 @@
 - HTML / CSS styling 
 - button for controlling board 
 
+
+## Sys admin / security
+- unix setting up the server on the raspberry pi 
+- how to set up a firewall
+- how to make sure it's secure 
+
 ## Scratch 
 - animations 
 - game 
