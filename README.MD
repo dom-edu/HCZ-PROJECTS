@@ -46,3 +46,5 @@
   - animation
   - game 
 
+## Student roles
+[List of the various roles students will have] (https://docs.google.com/document/d/1xBWAepUYqRIuhKeFYyghS-4TI13im_5eb3-6ckKQxgw/edit?tab=t.0)
