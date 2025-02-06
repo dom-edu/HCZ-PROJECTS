@@ -24,11 +24,11 @@
 - diy speaker (bluetooth can control from the board)
 
 ## Software
-- ardino 
-- raspberry pi 
+- ardino: https://www.youtube.com/watch?v=yi29dbPnu28 
+- raspberry pi: https://www.raspberrypi.com/tutorials  
 - Python + JS web portal 
 - login system 
-- HTML / CSS styling 
+- HTML / CSS styling: https://www.w3schools.com/css/default.asp 
 - button for controlling board 
 
 
