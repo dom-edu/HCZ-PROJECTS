@@ -14,6 +14,7 @@
 - rhino (free) 3D modeling program 
 - https://www.rhino3d.com/ 
 - Rhino Tutorial : 3D Modeling: https://www.youtube.com/watch?v=AjyL1Z6t73A
+- 3D Models of NYC https://www.nyc.gov/site/planning/data-maps/open-data/dwn-nyc-3d-model-download.page
 
 ## LIGHT SHOW 
 - 3d cube 8x8x8 
